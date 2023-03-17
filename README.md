@@ -1,11 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="hortiblog-logo.png" alt="HortiBlog Logo" width="200">
+  <img id="logo" src="hortiblog-logo.png" alt="HortiBlog Logo" width="200">
 </p>
-<h1 align="center">HortiBlog Public Repository</h1>
 
 <p align="center">
-  This repository contains public-facing information, demo images, and documentation related to the HortiBlog project - a horticulture blogging website built with React, JavaScript, Firebase, and styled-components.
+  This repository contains public-facing information and documentation related to the HortiBlog project - a horticulture blogging website built with React, JavaScript, Firebase, and styled-components.
 </p>
 
 <p align="center">
@@ -15,12 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="#about-the-project">About the Project</a>
-  ·
-  <a href="#features">Features</a>
-  ·
-  <a href="#planned-features">Planned Features</a>
-  ·
   <a href="#changelog">Changelog</a>
   ·
   <a href="#contributing">Contributing</a>
@@ -33,6 +26,10 @@
 
 <p>
   HortiBlog is a passion project I work on in my free time, using technologies like React, JavaScript, Firebase, and styled-components. My mission is to educate both new and seasoned growers by sharing proven, scientific methods that go beyond anecdotal advice or "bro-science." As a passionate gardener and the sole operator of this site, I am dedicated to fostering a community of informed gardeners who can make better decisions for their plants, the environment, and themselves. Through in-depth articles, expert insights, and practical tips, I aim to empower my readers with the knowledge and confidence they need to grow and thrive in their gardening journey.
+</p>
+
+<p>
+  Feel free to join the <a href="https://discord.gg/CNXDx25CTm" target="_blank">Discord server</a> to hang out and chill
 </p>
 
 <!-- Features -->
@@ -108,4 +105,9 @@
 <p>
   For any inquiries or feedback, please contact me at <a href="mailto:jonathan.c.raczkowski@outlook.com">jonathan.c.raczkowski@outlook.com</a>.
 </p>
+<br> 
+<br>  
+<div align="center">
+  <a href="#logo">Back to Top ↑</a>
+</div>
 
