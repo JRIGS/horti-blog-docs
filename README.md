@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  This repository contains public-facing information and documentation related to the HortiBlog project - a horticulture blogging website built with React, JavaScript, Firebase, and styled-components.
+  This repository contains public-facing information and documentation related to the HortiBlog project - a horticulture blogging website built with React, JavaScript, TypeScript, Firebase, and styled-components.
 </p>
 
 <p align="center">
