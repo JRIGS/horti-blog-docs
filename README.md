@@ -90,13 +90,7 @@
 </p>
 
 <p>
-  As the code for this project is private, if you would like to contribute, please get in touch with me through the Discord server. You can create your own code and I will collaborate with you on your proposed changes.
-</p>
-
-<p>
-  <strong>
-    <a href="https://discord.gg/CNXDx25CTm" target="_blank">Join the Discord server</a>
-  </strong>
+  As the code for this project is private, if you would like to contribute, please get in touch with me through the Discord server or email. You can create your own code and I will collaborate with you on your proposed changes.
 </p>
 
 <!-- Contact -->
