@@ -1,71 +1,111 @@
-# HortiBlog Public Repository
+<!-- HEADER -->
+<p align="center">
+  <img src="hortiblog-logo.png" alt="HortiBlog Logo" width="200">
+</p>
+<h1 align="center">HortiBlog Public Repository</h1>
 
-This repository contains public-facing information, demo images, and documentation related to the HortiBlog project - a horticulture blogging website built with React, JavaScript, Firebase, and styled-components.
+<p align="center">
+  This repository contains public-facing information, demo images, and documentation related to the HortiBlog project - a horticulture blogging website built with React, JavaScript, Firebase, and styled-components.
+</p>
 
-## Live Demo v1.0.0
+<p align="center">
+  <strong>
+    <a href="https://horti-blog.web.app/" target="_blank">Live Demo v1.0.0</a>
+  </strong>
+</p>
 
-Visit [https://www.horti.blog](https://horti-blog.web.app/) to see HortiBlog in action!
+<p align="center">
+  <a href="#about-the-project">About the Project</a>
+  ·
+  <a href="#features">Features</a>
+  ·
+  <a href="#planned-features">Planned Features</a>
+  ·
+  <a href="#changelog">Changelog</a>
+  ·
+  <a href="#contributing">Contributing</a>
+  ·
+  <a href="#contact">Contact</a>
+</p>
 
-## Table of Contents
+<!-- About the Project -->
+<h2 id="about-the-project">About the Project</h2>
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Planned Features](#planned-features)
-- [Changelog](#changelog)
-- [Contributing](#contributing)
-- [Contact](#contact)
+<p>
+  HortiBlog is a passion project I work on in my free time, using technologies like React, JavaScript, Firebase, and styled-components. My mission is to educate both new and seasoned growers by sharing proven, scientific methods that go beyond anecdotal advice or "bro-science." As a passionate gardener and the sole operator of this site, I am dedicated to fostering a community of informed gardeners who can make better decisions for their plants, the environment, and themselves. Through in-depth articles, expert insights, and practical tips, I aim to empower my readers with the knowledge and confidence they need to grow and thrive in their gardening journey.
+</p>
 
-## About the Project
+<!-- Features -->
+<h2 id="features">Features</h2>
 
-HortiBlog is a passion project I work on in my free time, using technologies like React, JavaScript, Firebase, and styled-components. My mission is to educate both new and seasoned growers by sharing proven, scientific methods that go beyond anecdotal advice or "bro-science." As a passionate gardener and the sole operator of this site, I am dedicated to fostering a community of informed gardeners who can make better decisions for their plants, the environment, and themselves. Through in-depth articles, expert insights, and practical tips, I aim to empower my readers with the knowledge and confidence they need to grow and thrive in their gardening journey.
+<ul>
+  <li>Browse and search for blog posts by topic or keyword, making it easy for users to find relevant content</li>
+  <li>Responsive design for seamless user experience across mobile and desktop devices</li>
+</ul>
 
-## Features
+<!-- Planned Features -->
+<h2 id="planned-features">Planned Features</h2>
 
-- Browse and search for blog posts by topic or keyword, making it easy for users to find relevant content
-- Responsive design for seamless user experience across mobile and desktop devices
+<h3>Performance and Accessibility</h3>
+<ul>
+  <li>Optimize images using PNG compression to improve site performance and loading times</li>
+  <li>Improve Lighthouse Accessibility scores to ensure the website is user-friendly and accessible to all users</li>
+</ul>
 
-## Planned Features
+<h3>Content Management and SEO</h3>
+<ul>
+  <li>Create a content management system (CMS) for easier administration and management of blog posts</li>
+  <li>Enhance Search Engine Optimization (SEO) to increase website visibility and reach a broader audience</li>
+</ul>
 
-### Performance and Accessibility
+<h3>User Engagement</h3>
+<ul>
+  <li>Offer a dark mode for users who prefer a darker interface</li>
+  <li>Integrate social media sharing options for users to share their favorite content with their network</li>
+  <li>Add a newsletter subscription feature to keep users informed about new content and updates</li>
+  <li>Implement a user forum with authentication, allowing members to engage in discussions and share their knowledge</li>
+  <li>Add a rating system for blog posts, allowing users to rate the content based on its usefulness</li>
+  <li>Add a comment system, allowing users to leave feedback on individual blog posts</li>
+</ul>
 
-- Optimize images using PNG compression to improve site performance and loading times
-- Improve Lighthouse Accessibility scores to ensure the website is user-friendly and accessible to all users
+<h3>Mobile App</h3>
+<ul>
+  <li>Develop a mobile app version for iOS and Android to reach more users and offer a native app experience</li>
+</ul>
 
-### Content Management and SEO
+<h3>Analytics</h3>
+<ul>
+  <li>Implement analytics to better understand user behavior and preferences</li>
+</ul>
 
-- Create a content management system (CMS) for easier administration and management of blog posts
-- Enhance Search Engine Optimization (SEO) to increase website visibility and reach a broader audience
+<!-- Changelog -->
+<h2 id="changelog">Changelog</h2>
 
-### User Engagement
+<p>
+  See the <a href="CHANGELOG.md">CHANGELOG.md</a> file for the list of changes and updates made to the project.
+</p>
 
-- Offer a dark mode for users who prefer a darker interface
-- Integrate social media sharing options for users to share their favorite content with their network
-- Add a newsletter subscription feature to keep users informed about new content and updates
-- Implement a user forum with authentication, allowing members to engage in discussions and share their knowledge
-  - Add a rating system for blog posts, allowing users to rate the content based on its usefulness
-  - Add a comment system, allowing users to leave feedback on individual blog posts
+<!-- Contributing -->
+<h2 id="contributing">Contributing</h2>
 
-### Mobile App
+<p>
+  We appreciate and welcome any contributions of all levels and backgrounds to the HortiBlog project! Whether you're interested in submitting bug reports, suggesting new features, or providing code improvements, your input is valuable to me.
+</p>
 
-- Develop a mobile app version for iOS and Android to reach more users and offer a native app experience
+<p>
+  As the code for this project is private, if you would like to contribute, please get in touch with me through the Discord server. You can create your own code and I will collaborate with you on your proposed changes.
+</p>
 
-### Analytics
+<p>
+  <strong>
+    <a href="https://discord.gg/CNXDx25CTm" target="_blank">Join the Discord server</a>
+  </strong>
+</p>
 
-- Implement analytics to better understand user behavior and preferences
+<!-- Contact -->
+<h2 id="contact">Contact</h2>
 
-## Changelog
-
-See the [CHANGELOG.md](CHANGELOG.md) file for the list of changes and updates made to the project.
-
-## Contributing
-
-We appreciate and welcome any contributions of all levels and backgrounds to the HortiBlog project! Whether you're interested in submitting bug reports, suggesting new features, or providing code improvements, your input is valuable to me.
-
-As the code for this project is private, if you would like to contribute, please get in touch with me through the Discord server. You can create your own code and I will collaborate with you on your proposed changes.
-
-[Join the Discord server](https://discord.gg/CNXDx25CTm)
-
-## Contact
-
-For any inquiries or feedback, please contact me at [jonathan.c.raczkowski@outlook.com](mailto:jonathan.c.raczkowski@outlook.com).
+<p>
+  For any inquiries or feedback, please contact me at <a href="mailto:jonathan.c.raczkowski@outlook.com">jonathan.c.raczkowski@outlook.com</a>.
+</p>
 
