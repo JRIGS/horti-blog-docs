@@ -51,7 +51,7 @@
 
 <h3>Content Management and SEO</h3>
 <ul>
-  <li>Create a content management system (CMS) for easier administration and management of blog posts</li>
+  <li>Improve the content management system (CMS) for easier administration and management of blog posts</li>
   <li>Enhance Search Engine Optimization (SEO) to increase website visibility and reach a broader audience</li>
 </ul>
 
@@ -86,7 +86,7 @@
 <h2 id="contributing">Contributing</h2>
 
 <p>
-  We appreciate and welcome any contributions of all levels and backgrounds to the HortiBlog project! Whether you're interested in submitting bug reports, suggesting new features, or providing code improvements, your input is valuable to me.
+  I appreciate and welcome any contributions of all levels and backgrounds to the HortiBlog project! Whether you're interested in submitting bug reports, suggesting new features, or providing code improvements, your input is valuable to me.
 </p>
 
 <p>
