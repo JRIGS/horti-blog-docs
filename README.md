@@ -25,7 +25,7 @@
 <h2 id="about-the-project">About the Project</h2>
 
 <p>
-  HortiBlog is a passion project I work on in my free time, using technologies like React, JavaScript, Firebase, and styled-components. My mission is to educate both new and seasoned growers by sharing proven, scientific methods that go beyond anecdotal advice or "bro-science." As a passionate gardener and the sole operator of this site, I am dedicated to fostering a community of informed gardeners who can make better decisions for their plants, the environment, and themselves. Through in-depth articles, expert insights, and practical tips, I aim to empower my readers with the knowledge and confidence they need to grow and thrive in their gardening journey.
+  HortiBlog is a passion project I work on in my free time, using technologies like React, JavaScript, TypeScript, Firebase, and styled-components. My mission is to educate both new and seasoned growers by sharing proven, scientific methods that go beyond anecdotal advice or "bro-science." As a passionate gardener and the sole operator of this site, I am dedicated to fostering a community of informed gardeners who can make better decisions for their plants, the environment, and themselves. Through in-depth articles, expert insights, and practical tips, I aim to empower my readers with the knowledge and confidence they need to grow and thrive in their gardening journey.
 </p>
 
 <p>
