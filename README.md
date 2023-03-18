@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>
-    <a href="https://horti-blog.web.app/" target="_blank">Live Demo v1.0.0</a>
+    <a href="https://horti-blog.web.app/" target="_blank">Live Demo v1.1.2</a>
   </strong>
 </p>
 
@@ -61,6 +61,7 @@
   <li>Integrate social media sharing options for users to share their favorite content with their network</li>
   <li>Add a newsletter subscription feature to keep users informed about new content and updates</li>
   <li>Implement a user forum with authentication, allowing members to engage in discussions and share their knowledge</li>
+  <li>Searchbar to catch queries from all routes/posts</li>
   <li>Add a rating system for blog posts, allowing users to rate the content based on its usefulness</li>
   <li>Add a comment system, allowing users to leave feedback on individual blog posts</li>
 </ul>
